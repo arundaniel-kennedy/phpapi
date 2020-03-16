@@ -16,12 +16,14 @@
 
     <div class="container mt-5 pt-5">
       <div class="jumbotron shadow-lg">
+        <h3>Registration Desk</h3>
+        <hr>
         <div class="row" id="content">
 
         </div>
         <br>
         <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#apicrudModal">
-          Add
+          Register yourself here
         </button>
       </div>
     </div>
